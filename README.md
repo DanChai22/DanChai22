@@ -12,9 +12,9 @@ Hi 👋 Shengdu Chai here.
 - 📧 Email address: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqhq-lou&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanChai22&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqhq-lou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanChai22&layout=compact)
 
 <!--
 **DanChai22/DanChai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
