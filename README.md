@@ -1,5 +1,7 @@
 Hi 👋 Shengdu Chai here.
 
+[Click to download my CV](https://github.com/DanChai22/DanChai22/blob/main/CV/CV.pdf)
+
 - 🏃‍ Currently working on **AI for Science (Physics)**.
     - Graduate student at Fudan University.
         - Advisor: [Xincheng Xie @ Fudan](https://icqm.pku.edu.cn/yw/directory/faculty/237476.htm).
