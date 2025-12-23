@@ -14,7 +14,7 @@ Hi 👋 Shengdu Chai here.
 - 📧 Email address: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanChai22&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanChai22)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanChai22&layout=compact)
 
