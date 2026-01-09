@@ -13,7 +13,27 @@ Hi 👋 Shengdu Chai here.
         - You can find them on my [inspire](https://inspirehep.net/authors/2617322?ui-citation-summary=true)
 - 📧 Email address: [sdchai24@m.fudan.edu.cn](mailto:sdchai24@m.fudan.edu.cn)
 
-
-[![DanChai22's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanChai22)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanChai22&layout=compact)
+<table align="center">
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=github-dark&preferLogin=false">
+        <img
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/DanChai22?cardType=github&theme=github-dark&preferLogin=false"
+          alt="DanChai22's GitHub Stats"
+          width="100%"
+          style="display:block;"
+        />
+      </a>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/DanChai22/github-readme-stats">
+        <img
+          src="https://github-readme-stats-pi-seven-95.vercel.app/api/top-langs/?username=DanChai22&layout=compact&theme=onedark&hide_border=true&hide=Jupyter%20Notebook,html,javascript,css"
+          alt="Top Languages"
+          width="100%"
+          style="display:block;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
