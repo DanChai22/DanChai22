@@ -4,3 +4,9 @@
 *.out
 *.synctex.gz
 *.DS_Store
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.bib
+*.png
