@@ -15,20 +15,17 @@ Hi 👋 Shengdu Chai here.
 
 <table align="center">
   <tr>
-    <td width="55%" align="center">
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=github-dark&preferLogin=false">
+    <td width="51%" align="center">
         <img
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/DanChai22?cardType=github&theme=github-dark&preferLogin=false"
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/DanChai22?cardType=github&preferLogin=false"
           alt="DanChai22's GitHub Stats"
           width="100%"
-          style="display:block;"
         />
-      </a>
     </td>
-    <td width="45%" align="center">
+    <td width="49%" align="center">
       <a href="https://github.com/DanChai22/github-readme-stats">
         <img
-          src="https://github-readme-stats-pi-seven-95.vercel.app/api/top-langs/?username=DanChai22&layout=compact&theme=onedark&hide_border=true&hide=Jupyter%20Notebook,html,javascript,css"
+          src="https://github-readme-stats-pi-seven-95.vercel.app/api/top-langs/?username=DanChai22&layout=compact&hide_border=true&hide=Jupyter%20Notebook,html,javascript,css"
           alt="Top Languages"
           width="100%"
           style="display:block;"
